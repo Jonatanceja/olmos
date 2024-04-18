@@ -1,0 +1,1 @@
+<button class="bg-naranja px-5 py-3 text-white font-semibold rounded-md hover:bg-orange-400">{{ $slot }}</button>
